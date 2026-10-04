@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(62, 155, 133);
+}
+
+.h1 {
+  color: white;
+}
+
+.h2 {
+  color: rgb(18, 150, 20);
+}
+
+ol.order {
+  background-color: rgba(18, 150, 20, 0.5);
+}
+
+li.law {
+  background-color: rgb(108, 18, 168);
+}
+
+ol.aw {
+  background-color: rgba(94, 165, 7, 0.84);
+}
+
+p.pe {
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+
+span.pan {
+  background-color: red;
+  font-weight: regular;
+}
